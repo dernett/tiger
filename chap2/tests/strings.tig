@@ -1,0 +1,17 @@
+"123\
+\456\
+\789"
+
+"hello\^Kworld\010"
+
+"test\tof  \nwhite    space"
+
+"back\\\"slash\""
+
+"illegal\escape"
+
+/*
+"no error
+*/
+
+"error

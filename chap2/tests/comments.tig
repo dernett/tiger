@@ -1,0 +1,22 @@
+/* single line */
+
+/*
+multi
+line
+*/
+
+/* this is a
+  /* very
+    /*
+      nested
+    */
+  */
+  comment
+*/
+
+/* this is a
+  broken */
+  comment
+*/
+
+/* unclosed comment
